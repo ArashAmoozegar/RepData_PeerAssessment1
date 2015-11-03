@@ -1,9 +1,9 @@
----
-title: "Reproducible Research - Assignment 1"
-author: "Arash Amoozegar"
----
+# Reproducible Research - Assignment 1
+*Author: Arash Amoozegar*
 
 ## Introduction
+
+Using the number of steps taken in 5-minute intervals data from a personal activity monitoring device which is collected from an anonymous individual during October and November of 2012 and using the help of graphs and imputation technique, I provide answers to different questions regarding the activity patterns.
 
 ## 1. Loading and Pre-Processing
 
