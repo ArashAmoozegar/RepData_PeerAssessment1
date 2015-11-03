@@ -1,9 +1,6 @@
 ---
 title: "Reproducible Research - Assignment 1"
 author: "Arash Amoozegar"
-output: 
-  html_document: 
-    toc: yes
 ---
 
 ## Introduction
